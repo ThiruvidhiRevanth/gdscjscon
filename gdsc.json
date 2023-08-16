@@ -5,10 +5,10 @@
           
                 "hometitle": "revanth",
                 "hometext":  "csse",
-                "homeurl":"https://thiruvidhirevanth.github.io/gdscjscon/gdsc.json ",
+                "homeurl":"https://thiruvidhirevanth.github.io/gdscjscon/gdsc.json",
                 "tipstitle": "revanth",
                 "tipstext":  "csse",
-                "tipsurl": " ",
+                "tipsurl": "https://www.instagram.com/gdsc.mbu/",
         
                 "eventtitle": "revanth",
                 "eventtext":  "csse",
@@ -21,7 +21,12 @@
                 "teamurl": " "
               
            
-        }
+        },
+        {
+            
+                "hometitle": "revanth",
+                "hometext":  "csse",
+                "homeurl":"https://thiruvidhirevanth.github.io/gdscjscon/gdsc.json"}
        
     ],
     "info": {
