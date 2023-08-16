@@ -3,20 +3,22 @@
         {
             
           
-                "title": "revanth",
-                "text":  "csse",
+                "hometitle": "revanth",
+                "hometext":  "csse",
                 "iconurl":" "
-          
+            
+                "tipstitle": "revanth",
+                "tipstext":  "csse",
+                "eventitle": "revanth",
+                "eventtext":  "csse",
+                "newstitle": "revanth",
+                "newstext":  "csse",
+                "teamname": "revanth",
+                "teamrole":  "csse",
+              
            
         },
-        {
-          
-                "title": "revi",
-                "text":"cse",
-                "iconurl":" "
-          
-           
-        }
+       
     ],
     "info": {
         "seed": "0bba0d716dfcc00e",
