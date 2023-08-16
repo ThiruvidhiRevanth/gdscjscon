@@ -5,15 +5,20 @@
           
                 "hometitle": "revanth",
                 "hometext":  "csse",
-                "iconurl":" ",
+                "homeurl":" ",
                 "tipstitle": "revanth",
                 "tipstext":  "csse",
+                "tipsurl": " ",
+        
                 "eventtitle": "revanth",
                 "eventtext":  "csse",
+                "eventutl": " ",
                 "newstitle": "revanth",
                 "newstext":  "csse",
+                "newsurl":"",
                 "teamname": "revanth",
-                "teamrole":  "csse"
+                "teamrole":  "csse",
+                "teamurl": " "
               
            
         }
