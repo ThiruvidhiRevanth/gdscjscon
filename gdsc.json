@@ -5,8 +5,7 @@
           
                 "hometitle": "revanth",
                 "hometext":  "csse",
-                "iconurl":" "
-            
+                "iconurl":" ",
                 "tipstitle": "revanth",
                 "tipstext":  "csse",
                 "eventitle": "revanth",
@@ -14,10 +13,10 @@
                 "newstitle": "revanth",
                 "newstext":  "csse",
                 "teamname": "revanth",
-                "teamrole":  "csse",
+                "teamrole":  "csse"
               
            
-        },
+        }
        
     ],
     "info": {
