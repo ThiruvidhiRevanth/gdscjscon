@@ -3,201 +3,201 @@
         {
             
           
-                "teamtitle": "Valasala Rakesh",
-                "teamtext":  "Cloud and Open Source,Community Lead ",
+                "teamname": "Valasala Rakesh",
+                "teamrole":  "Cloud and Open Source,Community Lead ",
                 "teamurl":"https://thiruvidhirevanth.github.io/gdscjscon/gdsc.json",
                 "teampic":""
               
            
         },
         {
-               "teamtitle":"Gurram Ajith Kumar",
-                "teamtext": "React Backend Developer,Web Development",
+               "teamname":"Gurram Ajith Kumar",
+                "teamrole": "React Backend Developer,Web Development",
                 "teamurl":"",
                 "teampic":""
           
         },
         {
-            "teamtitle":"Kapa Srinivasa Reddy",
-             "teamtext": "React  Developer,Web Development",
+            "teamname":"Kapa Srinivasa Reddy",
+             "teamrole": "React  Developer,Web Development",
              "teamurl":"",
              "teampic":""
        
      },
      {
-        "teamtitle":"Chillale Sai Ganesh",
-         "teamtext": "Angular Developer,Web Development",
+        "teamname":"Chillale Sai Ganesh",
+         "teamrole": "Angular Developer,Web Development",
          "teamurl":"",
          "teampic":""
    
     },
     {
-        "teamtitle":"Pothula Thanmayi",
-         "teamtext": "Frontend Developer,Web Development",
+        "teamname":"Pothula Thanmayi",
+         "teamrole": "Frontend Developer,Web Development",
          "teamurl":"",
          "teampic":""
    
    },
    {
-    "teamtitle":"Mukkamalla Lohith",
-     "teamtext": "Frontend Developer,Web Development",
+    "teamname":"Mukkamalla Lohith",
+     "teamrole": "Frontend Developer,Web Development",
      "teamurl":"",
      "teampic":""
 
     },
     {
-        "teamtitle":"Kasarla Madhumitha",
-         "teamtext": "Frontend Developer,Web Development",
+        "teamname":"Kasarla Madhumitha",
+         "teamrole": "Frontend Developer,Web Development",
          "teamurl":"",
          "teampic":""
     
      },
     {
-            "teamtitle":"Molagavelli Fayaz",
-             "teamtext": "Kotlin Developer,Android Development",
+            "teamname":"Molagavelli Fayaz",
+             "teamrole": "Kotlin Developer,Android Development",
              "teamurl":"",
              "teampic":""
         
     },
     {
-        "teamtitle":"Thiruvidhi Revanth",
-         "teamtext": "Flutter Developer,Android Development",
+        "teamname":"Thiruvidhi Revanth",
+         "teamrole": "Flutter Developer,Android Development",
          "teamurl":"",
          "teampic":""
         
     
 },
 {
-    "teamtitle":"M.V Roshini",
-     "teamtext": "Machine Learning",
+    "teamname":"M.V Roshini",
+     "teamrole": "Machine Learning",
      "teamurl":"",
      "teampic":""
     
 
 },
 {
-    "teamtitle":"Vavilthota Divya",
-     "teamtext": "Machine Learning",
+    "teamname":"Vavilthota Divya",
+     "teamrole": "Machine Learning",
      "teamurl":"",
      "teampic":""
     
 
 },
 {
-    "teamtitle":"Korrapati Indhu Priya",
-     "teamtext": " Data Science ",
+    "teamname":"Korrapati Indhu Priya",
+     "teamrole": " Data Science ",
      "teamurl":"",
      "teampic":""
     
 
 },
 {
-    "teamtitle":"Muppuru Pradeepika",
-     "teamtext": " Data Science ",
+    "teamname":"Muppuru Pradeepika",
+     "teamrole": " Data Science ",
      "teamurl":"",
      "teampic":""
     
 
 },
 {
-    "teamtitle":"Erla Sneha",
-     "teamtext": " Data Science ",
+    "teamname":"Erla Sneha",
+     "teamrole": " Data Science ",
      "teamurl":"",
      "teampic":""
     
 
 },
 {
-    "teamtitle":"Baratam Avinash",
-     "teamtext": "UI/UX Design",
+    "teamname":"Baratam Avinash",
+     "teamrole": "UI/UX Design",
      "teamurl":"",
      "teampic":""
     
 
 },
 {
-    "teamtitle":"Gowtham",
-     "teamtext": "UI/UX Design",
+    "teamname":"Gowtham",
+     "teamrole": "UI/UX Design",
      "teamurl":"",
      "teampic":""
     
 
 },
 {
-    "teamtitle":"M.Leena",
-     "teamtext": "Host,Event Management",
+    "teamname":"M.Leena",
+     "teamrole": "Host,Event Management",
      "teamurl":"",
      "teampic":""
     
 
 },
 {
-    "teamtitle":"Shaik.Sadiq",
-     "teamtext": "Host,Event Management",
+    "teamname":"Shaik.Sadiq",
+     "teamrole": "Host,Event Management",
      "teamurl":"",
      "teampic":""
     
 
 },
 {
-    "teamtitle":"Puthramaddi Nandini",
-     "teamtext": "Social Media Handling,Event Management",
+    "teamname":"Puthramaddi Nandini",
+     "teamrole": "Social Media Handling,Event Management",
      "teamurl":"",
      "teampic":""
     
 
 },
 {
-    "teamtitle":"Rangineni Devarshini",
-     "teamtext": "Social Media Handling,Event Management",
+    "teamname":"Rangineni Devarshini",
+     "teamrole": "Social Media Handling,Event Management",
      "teamurl":"",
      "teampic":""
     
 
 },
 {
-    "teamtitle":"S.Thanuja",
-     "teamtext": "Mail Handling,Event Management",
+    "teamname":"S.Thanuja",
+     "teamrole": "Mail Handling,Event Management",
      "teamurl":"",
      "teampic":""
     
 
 },
 {
-    "teamtitle":"Vamsi Priya",
-     "teamtext": "Mail Handling,Event Management",
+    "teamname":"Vamsi Priya",
+     "teamrole": "Mail Handling,Event Management",
      "teamurl":"",
      "teampic":""
     
 
 },
 {
-    "teamtitle":"Manasa",
-     "teamtext": "Mail Handling,Event Management",
+    "teamname":"Manasa",
+     "teamrole": "Mail Handling,Event Management",
      "teamurl":"",
      "teampic":""
     
 
 },
 {
-    "teamtitle":"J.Karthik",
-     "teamtext": "Editor,Event Management",
+    "teamname":"J.Karthik",
+     "teamrole": "Editor,Event Management",
      "teamurl":"",
      "teampic":""
     
 
 },
 {
-    "teamtitle":"V.S Moulana",
-     "teamtext": "Editor,Event Management",
+    "teamname":"V.S Moulana",
+     "teamrole": "Editor,Event Management",
      "teamurl":"",
      "teampic":""
     
 
 },
 {
-    "teamtitle":"G. Siva Krishna",
-     "teamtext": "Editor,Event Management",
+    "teamname":"G. Siva Krishna",
+     "teamrole": "Editor,Event Management",
      "teamurl":"",
      "teampic":""
     
