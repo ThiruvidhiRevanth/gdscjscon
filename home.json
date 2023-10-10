@@ -3,66 +3,14 @@
         {
             
           
-                "hometitle": "revanth",
-                "hometext":  "csse",
-                "homeurl":"https://thiruvidhirevanth.github.io/gdscjscon/gdsc.json"
+                "hometitle": "Welcome to App Experience",
+                "hometext":  "Google Developer Student Club (GDSC)  --Mohan Babu University",
+                "homeurl":"https://gdsc.community.dev/mohan-babu-university-tirupati/"
               
            
-        },
-        {
-               "hometitle":"",
-                "hometext": "",
-                "homeurl":""
-          
-        },
-         {
-               "hometitle":"",
-                "hometext": "",
-                "homeurl":""
-          
-         },
-         {
-               "hometitle":"",
-                "hometext": "",
-                "homeurl":""
-          
-         },
-         {
-               "hometitle":"",
-                "hometext": "",
-                "homeurl":""
-          
-         },
-         {
-               "hometitle":"",
-                "hometext": "",
-                "homeurl":""
-          
-         },
-         {
-               "hometitle":"",
-                "hometext": "",
-                "homeurl":""
-          
-         },
-         {
-               "hometitle":"",
-                "hometext": "",
-                "homeurl":""
-          
-         },
-         {
-               "hometitle":"",
-                "hometext": "",
-                "homeurl":""
-          
-         },
-         {
-               "hometitle":"",
-                "hometext": "",
-                "homeurl":""
-          
-         }
+        }
+      
+
        
     ]
    
