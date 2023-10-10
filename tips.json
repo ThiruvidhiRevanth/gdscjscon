@@ -1,20 +1,175 @@
 {
     "gdsc": [
+         {
+            
+          
+                "tipstitle": "If your PC slow follow this:",
+                "tipstext":  "open the RUN by clicking WINDOW+R and type these temp and enter remove all the files, follow the same for %temp% and prefetch",
+                "tipsurl":""
+              
+           
+        }, {
+            
+          
+                "tipstitle": "Delete the following files to save your computer storage",
+                "tipstext":  "To open the files first open search bar and type Delete temporary files and open the temproray files and  delete all  ",
+                "tipsurl":""
+              
+           
+        },
+        
         {
             
           
-                "tipstitle": "revanth",
-                "tipstext":  "csse",
-                "tipsurl":"https://thiruvidhirevanth.github.io/gdscjscon/gdsc.json"
+                "tipstitle": "Shortcut:Create a new Desktop",
+                "tipstext":  "CTRL+WINDOW+D",
+                "tipsurl":""
               
            
         },
         {
-               "tipstitle":"revanth",
-                "tipstext": "csse",
+               "tipstitle":"Shortcut:To move from desktop to another Desktop",
+                "tipstext": "CTRL+WINDOW+RIGHTARROW",
                 "tipsurl":""
           
-        }
+        },
+        {
+               "tipstitle":"Shortcut:Undo or To get back delete item ",
+                "tipstext": "CTRL+Z",
+                "tipsurl":""
+          
+        },
+        {
+               "tipstitle":"Shortcut:To select all",
+                "tipstext": "CTRL+A",
+                "tipsurl":""
+          
+        },
+        {
+               "tipstitle":"Shortcut:To copy",
+                "tipstext": "CTRL+C",
+                "tipsurl":""
+          
+        },
+        {
+               "tipstitle":"Shortcut:To cut",
+                "tipstext": "CTRL+X",
+                "tipsurl":""
+          
+        },
+        {
+               "tipstitle":"Shortcut:To paste",
+                "tipstext": "CTRL+V",
+                "tipsurl":""
+          
+        },
+        {
+               "tipstitle":"Shortcut:To open file",
+                "tipstext": "CTRL+O",
+                "tipsurl":""
+          
+            },
+        {
+               "tipstitle":"Shortcut:To save a file in location",
+                "tipstext": "CTRL+SHIFT+S",
+                "tipsurl":""
+          
+            },
+        {
+               "tipstitle":"Shortcut:To  find anything in the open page",
+                "tipstext": "CTRL+F",
+                "tipsurl":""
+          
+            },
+        {
+               "tipstitle":"Shortcut:To replace",
+                "tipstext": "CTRL+H",
+                "tipsurl":""
+          
+            },
+        {
+               "tipstitle":"Shortcut:To open the new window ",
+                "tipstext": "CTRL+N",
+                "tipsurl":""
+          
+            },
+         {
+               "tipstitle":"Shortcut:Cycles between open applications",
+                "tipstext": "ALT+TAB",
+                "tipsurl":""
+          
+        },
+         {
+               "tipstitle":"Shortcut:Quit program, close current window",
+                "tipstext": "ALT+F4",
+                "tipsurl":""
+          
+        },
+            {
+               "tipstitle":"Shortcut:To get back or back arrow",
+                "tipstext": "ALT+LEFTARROW",
+                "tipsurl":""
+          
+        },
+         {
+               "tipstitle":"Shortcut:Move through property tabs in Chrome or EDGE",
+                "tipstext": "CTRL+TAB",
+                "tipsurl":""
+          
+        },
+            {
+               "tipstitle":"Shortcut:To get the list of copied",
+                "tipstext": "WINDOWS+V",
+                "tipsurl":""
+          
+        }, {
+               "tipstitle":"Shortcut:To Paste the copied item in command prompt",
+                "tipstext": "CTLR+SHIFT+INSERT",
+                "tipsurl":""
+          
+            },
+        {
+               "tipstitle":"Shortcut:To open the This PC ",
+                "tipstext": "WINDOW+E",
+                "tipsurl":""
+          
+            },
+        {
+               "tipstitle":"Shortcut:To create the new tab in the Chrome or EDGE",
+                "tipstext": "CTRL+T",
+                "tipsurl":""
+          
+            },
+      
+        {
+               "tipstitle":"Shortcut:To close present tan in chrome or EDGE",
+                "tipstext": "CTRL+W",
+                "tipsurl":""
+          
+            },
+        {
+               "tipstitle":"Shortcut:To minimize the all closeand open applications",
+                "tipstext": "WINDOW+D",
+                "tipsurl":""
+          
+            },
+        {
+               "tipstitle":"Shortcut:To open run ",
+                "tipstext": "WINDOW+R",
+                "tipsurl":""
+          
+            },{
+               "tipstitle":"Shortcut:To open mic and speak the word instead of typing",
+                "tipstext": "WINDOW+H",
+                "tipsurl":""
+          
+            },
+        {
+               "tipstitle":"Shortcut:To lock the Pc",
+                "tipstext": "WINDOW+L",
+                "tipsurl":""
+          
+            }
        
     ]
    
