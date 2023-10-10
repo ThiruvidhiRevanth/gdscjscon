@@ -1,20 +1,45 @@
 {
     "gdsc": [
+         {
+               "eventtitle":"GIT and GITHUB  --Completed",
+                "eventtext": "Hacktoberfest is a month-long celebration of open source software run by DigitalOcean. It is a great opportunity for everyone, from seasoned developers to students and code newbies, to contribute to open source communities and develop their skills.",
+                "eventurl":"https://gdsc.community.dev/events/details/developer-student-clubs-mohan-babu-university-tirupati-presents-git-and-github-2023-10-08/"
+          
+          },
+         {
+               "eventtitle":"HacktoberFest Hackathon  --Completed",
+                "eventtext": "Hacktoberfest is a month-long celebration of open source software run by DigitalOcean. It is a great opportunity for everyone, from seasoned developers to students and code newbies, to contribute to open source communities and develop their skills.",
+                "eventurl":"https://gdsc.community.dev/events/details/developer-student-clubs-mohan-babu-university-tirupati-presents-hacktoberfest-hackathon-2023-10-07/"
+          
+          },
+          {
+               "eventtitle":"Web Development Bootcamp  --Completed",
+                "eventtext": "This bootcamp will teach you the skills you need to become a full-stack web developer. You will learn the fundamentals of HTML, CSS, JavaScript, React, Node, Express, and MongoDB. You will also learn how to integrate the frontend and backend of a web application. By the end of the bootcamp, you will be able to build a complete web application from scratch.",
+                "eventurl":"https://gdsc.community.dev/events/details/developer-student-clubs-mohan-babu-university-tirupati-presents-web-development-bootcamp/"
+          
+          },
+          {
+               "eventtitle":"Build Cloud Soultions --Completed",
+                "eventtext": "The Kickstart Google Cloud Study Jam virtual session is going to give all the information about Cloud Study Jam, the instructions to follow to join the program, How to register for the program, and how to complete the program.",
+                "eventurl":"https://gdsc.community.dev/events/details/developer-student-clubs-mohan-babu-university-tirupati-presents-build-cloud-soultions/"
+          
+          },
+          {
+               "eventtitle":"Kickstart Google Cloud Study Jam  --Completed",
+                "eventtext": "The Kickstart Google Cloud Study Jam virtual session is going to give all the information about Cloud Study Jam, the instructions to follow to join the program, How to register for the program, and how to complete the program.",
+                "eventurl":"https://gdsc.community.dev/events/details/developer-student-clubs-mohan-babu-university-tirupati-presents-kickstart-google-cloud-study-jam/"
+          
+          },
         {
             
           
-                "eventtitle": "revanth",
-                "eventtext":  "csse",
-                "eventurl":"https://thiruvidhirevanth.github.io/gdscjscon/gdsc.json"
+                "eventtitle": "Introduction to Google developer Student Clubs  --Completed",
+                "eventtext":  "Join us for an information session on Google Developer Student Clubs (GDSC) at Mohan Babu University, the first tech community founded. Learn about the club, its workings, upcoming events, and technologies. We'll also announce two big events coming soon!",
+                "eventurl":"https://gdsc.community.dev/events/details/developer-student-clubs-sree-vidyanikethan-engineering-college-tirupati-presents-introduction-to-google-developer-student-clubs/"
               
            
-        },
-        {
-               "eventtitle":"",
-                "eventtext": "",
-                "eventurl":""
-          
         }
+
        
     ]
    
