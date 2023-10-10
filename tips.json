@@ -169,7 +169,64 @@
                 "tipstext": "WINDOW+L",
                 "tipsurl":""
           
-            }
+            },
+    
+           {
+               "tipstitle":"BlackBox",
+                "tipstext": "BLACKBOX is your AI-Powered Coding Assistant so you can {Code} 10X Faster and Better",
+                "tipsurl":"https://www.useblackbox.io/landingPage"
+          
+        },
+    
+        {
+               "tipstitle":"Receive SMS Online Instantly",
+                "tipstext": "RECEIVE-SMSS.COM IS A FREE SERVICE FOR RECEIVING SMS MESSAGES AND VOICE MAILS ONLINE. THERE IS NO NEED TO REGISTER. JUST SELECT YOUR PHONE NUMBER FROM THE LIST BELOW. YOU CAN USE IT TO RECEIVE MESSAGES FROM FACEBOOK, TELEGRAM, WECHAT, VK, PAYPAL, ALIPAY AND MORE",
+                "tipsurl":"https://receive-smss.com/"
+          
+        },
+         
+           {
+               "tipstitle":"GOOGLE GRAVITY",
+                "tipstext": "If you type Google GRAVITY  in the google search we will see the magic",
+                "tipsurl":"https://mrdoob.com/projects/chromeexperiments/google-gravity/"
+          
+        },
+           {
+               "tipstitle":"Play Zerg Rush",
+                "tipstext": " We paly  the game with google  ",
+                "tipsurl":"https://elgoog.im/zergrush/"
+          
+        },
+           {
+               "tipstitle":"Fix My Speakers",
+                "tipstext": "Eject water from your phone's speakers after getting it wet.",
+                "tipsurl":"https://fixmyspeakers.com/"
+          
+        },
+           {
+               "tipstitle":"SMS BOMBER",
+                "tipstext": "A prank message or SMS bomber tool, which sends a huge amount of messages in bulk. It is a tool to prank your relatives and friends.",
+                "tipsurl":"https://greatonlinetools.com/"
+          
+        },
+           {
+               "tipstitle":" F-Droid",
+                "tipstext": "F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.",
+                "tipsurl":"https://f-droid.org/"
+          
+        },
+           {
+               "tipstitle":"ToffeeShare",
+                "tipstext": "Send files of any size directly from your device without ever storing anything online.",
+                "tipsurl":"https://toffeeshare.com/"
+          
+        }
+        
+       
+    
+   
+
+
        
     ]
    
